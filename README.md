@@ -18,7 +18,8 @@
     
 ###3.Các khái niệm  
 - **ADD**:Bạn có thể đề xuất thay đổi (thêm nó vào chỉ mục Index) bằng cách sử dụng lệnh:
-  ```git add <tên tập tin>       
+  ```git add <tên tập tin>  
+  
    git add *```     
 - **Remove**: Xoá file đã tồn tại trong git và cập nhật gitignore giữa chừng dự án.  
 - **Commit**: ghi lại việc thêm/thay đổi file hay thư mục vào repository.  
@@ -28,9 +29,13 @@ Commit này đang được chứa tại repository, các commit nối tiếp v�
 - **Push**: đẩy những thay đổi từ máy trạm vào máy chủ.  
 - **Pull**: Lấy tệp mã nguồn từ máy chủ về máy trạm  
 - **Fetch**: hủy tất cả thay đổi và commit cục bộ, lấy về (fetch) lịch sử gần nhất từ máy chủ và trỏ nhánh master cục bộ vào nó **-Clone:** sao chép 1 repository có sẵn ở trên máy cục bộ hoặc trên máy chủ khác.  
+
 ```git clone /đường-dẫn-đến/repository/```  
+
 Nếu repository đó ở máy chủ khác  
+
 ```git clone tênusername@địachỉmáychủ:/đường-dẫn-đến/repository```  
+
 - **Fork:** copy project có sẵn thành project cá nhân, rồi sau đó ta có thể tự do chỉnh sửa project đó . ## 3. Setting up Git:
 - download tại :https://desktop.github.com/
 - cài đặt chương trình
