@@ -28,16 +28,22 @@
 - **Commit**: ghi lại việc thêm/thay đổi file hay thư mục vào repository.  
 Khi thực hiện commit, trong repository sẽ tạo ra commit (hoặc revision) đã ghi lại sự khác biệt từ trạng thái đã commit lần trước với trạng thái hiện tại.  
 Commit này đang được chứa tại repository, các commit nối tiếp với nhau theo thứ tự thời gian. Bằng việc lần theo commit này từ trạng thái mới nhất thì có thể biết được lịch sử thay đổi trong quá khứ hoặc nội dung thay đổi đó.  
-```Git commit```  
+```  
+Git commit  
+```  
 - **Push**: đẩy những thay đổi từ máy trạm vào máy chủ.  
 - **Pull**: Lấy tệp mã nguồn từ máy chủ về máy trạm  
 - **Fetch**: hủy tất cả thay đổi và commit cục bộ, lấy về (fetch) lịch sử gần nhất từ máy chủ và trỏ nhánh master cục bộ vào nó **-Clone:** sao chép 1 repository có sẵn ở trên máy cục bộ hoặc trên máy chủ khác.  
 
-```git clone /đường-dẫn-đến/repository/```  
+```  
+git clone /đường-dẫn-đến/repository/  
+```  
 
 Nếu repository đó ở máy chủ khác  
 
-```git clone tênusername@địachỉmáychủ:/đường-dẫn-đến/repository```  
+```  
+git clone tênusername@địachỉmáychủ:/đường-dẫn-đến/repository  
+```  
 
 - **Fork:** copy project có sẵn thành project cá nhân, rồi sau đó ta có thể tự do chỉnh sửa project đó . ## 3. Setting up Git:
 - download tại :https://desktop.github.com/
