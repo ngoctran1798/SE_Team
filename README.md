@@ -17,9 +17,11 @@
   - Sau khi đã quậy tè le ở local , cuối cùng khi có một bản ổn định và hoàn tất (có thông qua test) ta sẽ quyết định cập nhật nó lên repository server với: -push: push thay đổi từ repository local lên repository server -fetch: cập nhật thay đổi từ repository server về repository local -pull/rebase: sao chép source code từ server về local workspace (tương đương checkout của SVN)    
     
 ###3.Các khái niệm  
-- **ADD**:Bạn có thể đề xuất thay đổi (thêm nó vào chỉ mục Index) bằng cách sử dụng lệnh:
-  ```git add <tên tập tin>   
-  git add *```     
+- **ADD**:Bạn có thể đề xuất thay đổi (thêm nó vào chỉ mục Index) bằng cách sử dụng lệnh:  
+
+  ```git add <tên tập tin>     
+  git add *```  
+  
 - **Remove**: Xoá file đã tồn tại trong git và cập nhật gitignore giữa chừng dự án.  
 - **Commit**: ghi lại việc thêm/thay đổi file hay thư mục vào repository.  
 Khi thực hiện commit, trong repository sẽ tạo ra commit (hoặc revision) đã ghi lại sự khác biệt từ trạng thái đã commit lần trước với trạng thái hiện tại.  
