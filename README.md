@@ -48,6 +48,8 @@ git clone tênusername@địachỉmáychủ:/đường-dẫn-đến/repository
 - **Fork:** copy project có sẵn thành project cá nhân, rồi sau đó ta có thể tự do chỉnh sửa project đó . ## 3. Setting up Git:
 - download tại :https://desktop.github.com/
 - cài đặt chương trình
-- tạo acc : chọn tool and options --> options--> add account (trong trường hợp đã có acc trên github thì chỉ cần đăng nhập)
+- tạo acc : chọn tool and options --> options--> add account (trong trường hợp đã có acc trên github thì chỉ cần đăng nhập)  
+
+
 
 
