@@ -18,9 +18,8 @@
     
 ###3.Các khái niệm  
 - **ADD**:Bạn có thể đề xuất thay đổi (thêm nó vào chỉ mục Index) bằng cách sử dụng lệnh:
-  ```git add <tên tập tin>  
-  
-   git add *```     
+  ```git add <tên tập tin>   
+  git add *```     
 - **Remove**: Xoá file đã tồn tại trong git và cập nhật gitignore giữa chừng dự án.  
 - **Commit**: ghi lại việc thêm/thay đổi file hay thư mục vào repository.  
 Khi thực hiện commit, trong repository sẽ tạo ra commit (hoặc revision) đã ghi lại sự khác biệt từ trạng thái đã commit lần trước với trạng thái hiện tại.  
